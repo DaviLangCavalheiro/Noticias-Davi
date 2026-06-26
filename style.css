@@ -110,8 +110,8 @@ img {
 }
 
 .anuncio {
-    width: 728px;
-    height: 90px;
+    width: 300px;
+    height: 60px;
     color: #999;
     text-transform: uppercase;
     margin: 20px auto;
