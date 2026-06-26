@@ -25,10 +25,10 @@ header {
     text-align: center;
 }
 
-.anuncio p {
+.anuncio {
     font-size: 12px;
-    width: 468px;
-    height: 60px;
+    width: 460px;
+    height: 90px;
     color: #999;
     text-transform: uppercase;
     margin-bottom: 10px;
@@ -95,6 +95,8 @@ img {
 
 .img-materia {
     margin: 20px 0;
+    width: 800px;
+    height: 600px;
 }
 
 .corpo-texto p {
