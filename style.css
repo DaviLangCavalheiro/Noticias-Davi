@@ -17,22 +17,6 @@ header {
     text-align: center;
 }
 
-.anuncio {
-    background-color: #fff;
-    padding: 15px;
-    border-radius: 8px;
-    box-shadow: 0 4px 6px rgba(0,0,0,0.05);
-    text-align: center;
-}
-
-.anuncio {
-    width: 728px;
-    height: 90px;
-    color: #999;
-    text-transform: uppercase;
-    margin: 20px auto;
-}
-
 .logo {
     font-size: 24px;
     font-weight: bold;
@@ -115,6 +99,22 @@ img {
     cursor: pointer;
     transition: background 0.3s;
     margin-top: 10px;
+}
+
+.anuncio {
+    background-color: #fff;
+    padding: 15px;
+    border-radius: 8px;
+    box-shadow: 0 4px 6px rgba(0,0,0,0.05);
+    text-align: center;
+}
+
+.anuncio {
+    width: 728px;
+    height: 90px;
+    color: #999;
+    text-transform: uppercase;
+    margin: 20px auto;
 }
 
 #btn-curtir:hover {
