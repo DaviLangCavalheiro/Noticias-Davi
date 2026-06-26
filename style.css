@@ -70,6 +70,9 @@ img {
 }
 
 .img-principal {
+    width: 1200px;
+    height: 675px;
+    object-fit: cover;
     margin-bottom: 25px;
 }
 
