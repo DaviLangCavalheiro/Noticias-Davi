@@ -28,7 +28,7 @@ header {
 .anuncio {
     width: 100%;
     max-width: 728px;
-    height: auto;
+    height: 90px;
     color: #999;
     text-transform: uppercase;
     margin: 20px auto;
