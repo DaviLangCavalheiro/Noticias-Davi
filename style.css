@@ -118,6 +118,8 @@ img {
 
 .anuncio p {
     font-size: 12px;
+    width: 728px;
+    height: 90px;
     color: #999;
     text-transform: uppercase;
     margin-bottom: 10px;
