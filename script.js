@@ -1,4 +1,3 @@
-// Sistema simples de interacao na pagina da noticia
 document.addEventListener('DOMContentLoaded', () => {
     const botaoCurtir = document.getElementById('btn-curtir');
     const contador = document.getElementById('contador');
