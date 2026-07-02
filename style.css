@@ -130,6 +130,8 @@ footer {
     padding: 20px;
     margin-top: 40px;
     font-size: 14px;
+    width: 100%;
+    box-sizing: border-boxmudan;
 }
 
 /* Responsivo para celulares */
